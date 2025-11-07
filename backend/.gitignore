@@ -13,3 +13,4 @@
 /tools
 /utils
 /*.md
+/.env
